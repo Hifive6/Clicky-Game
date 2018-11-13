@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Castlevania",
+        "img": "Castlevania.jpg" 
+    },
+    {
+        "name": "CupHead",
+        "img" : "cuphead.png"
+    },
+    {
+        "name": "Donkey kong",
+        "img" : "Donkeykong.png"
+    },
+    {
+        "name": "Grim Fandango",
+        "img" : "Grim_Fandango"
+    },
+    {
+        "name": "Kirby",
+        "img" : "Kirby.png"
+    },
+    {
+        "name": "Metroid",
+        "img" : "Metroid.png"
+    },
+    {
+        "name": "Pokemon",
+        "img" : "Pokemon.png"
+    },
+    {
+        "name": "Punch Out",
+        "img" : "punch-out.png"
+    },
+    {
+        "name": "SMB2",
+        "img" : "SMB2.png"
+    },
+    {
+        "name": "SMB3",
+        "img" : "SMB3.jpeg"
+    },
+    {
+        "name": "Sonic",
+        "img" : "Sonic.jpeg"
+    },
+    {
+        "name": "Zelda",
+        "img" : "Zelda.jpeg"
+    }
+]
