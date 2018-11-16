@@ -1,7 +1,7 @@
 [
     {
         "name": "Castlevania",
-        "img": "Castlevania.jpg" 
+        "img": "Castlevania.png" 
     },
     {
         "name": "CupHead",
@@ -13,7 +13,7 @@
     },
     {
         "name": "Grim Fandango",
-        "img" : "Grim_Fandango"
+        "img" : "Grim_Fandango.png"
     },
     {
         "name": "Kirby",
@@ -37,14 +37,14 @@
     },
     {
         "name": "SMB3",
-        "img" : "SMB3.jpeg"
+        "img" : "SMB3.png"
     },
     {
         "name": "Sonic",
-        "img" : "Sonic.jpeg"
+        "img" : "Sonic.png"
     },
     {
         "name": "Zelda",
-        "img" : "Zelda.jpeg"
+        "img" : "Zelda.png"
     }
 ]

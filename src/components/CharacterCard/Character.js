@@ -2,10 +2,11 @@
 import React from 'react'
 import "./Character.css"
 
+
 const CharacterCard = props => (
     <div className = "card" onClick={props.imageClick}>
         <div className = "img-containger">
-            {/* <img alt = {props.image.replace(".png", "")} src = {require("../../images" + props.image)} />  */}
+            <img alt = {props.image} src = {props.image}/> 
         </div>
     </div>
 );
