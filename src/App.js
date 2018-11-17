@@ -63,12 +63,12 @@ render() {
       score = {this.state.score} />
       <Jumbo />
       <div className = "wrapper">
-        {this.state.characters.map(character => (
+        {this.state.characters.map(item => (
         <CharacterCard 
         imageClick = {this.imageClick}
-        id = {character.id}
-        key = {character.id}
-        image = {character.img}
+        id = {item.name}
+        key = {item.name}
+        image = {item.img}
         />   
         ))}
       
