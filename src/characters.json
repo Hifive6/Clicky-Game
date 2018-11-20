@@ -1,15 +1,15 @@
 [
     {
-        "name": "Castlevania",
-        "img" : "Castlevania.png" 
+        "name": "Celeste",
+        "img" : "Celeste.png" 
     },
     {
         "name": "CupHead",
         "img" : "cuphead.png"
     },
     {
-        "name": "Donkey kong",
-        "img" : "Donkeykong.png"
+        "name": "Grand Theft Auto",
+        "img" : "Grand_Theft_Auto_III.png"
     },
     {
         "name": "Grim Fandango",
@@ -24,8 +24,8 @@
         "img" : "Metroid.png"
     },
     {
-        "name": "Pokemon",
-        "img" : "Pokemon.png"
+        "name": "Messenger",
+        "img" : "Messenger.png"
     },
     {
         "name": "Punch Out",

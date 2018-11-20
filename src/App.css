@@ -1,4 +1,7 @@
+
 .wrapper {
+  background-image: url("http://arcadesushi.com/files/2013/04/nintendo-n64-controller.png");
+    
     height: 100%;
     display: flex;
     flex-flow: row wrap;

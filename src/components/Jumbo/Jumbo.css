@@ -1,14 +1,17 @@
 .header{
-	background-color: #ccc;
+	/* background-image: url("http://arcadesushi.com/files/2013/04/nintendo-n64-controller.png"); */
+	
+	
 	position: relative;
 	width: 100%;
+	background-image: no-repeat
 }
 
 h1{
 	text-align: center;
 	font-size: 90px;
 	font-weight: bold;
-	padding: 90px 0 20px 0; 
+	/* padding: 90px 0 20px 0;  */
 }
 
 h2{
